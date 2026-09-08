@@ -1,0 +1,4 @@
+Model,Series scored,Helped,Helped %,Hurt,Hurt %,Median gain
+TFT,48077,27785,57.8,20288,42.2,0.0154
+LightGBM,48077,26289,54.7,21788,45.3,0.0091
+TimesFM,48077,25773,53.6,22303,46.4,0.0051

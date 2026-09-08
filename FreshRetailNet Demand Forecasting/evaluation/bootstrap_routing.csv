@@ -1,0 +1,2 @@
+comparison,delta,ci_low,ci_high,resamples
+router vs uniform recovered,-0.00756,-0.00809,-0.00704,1000
